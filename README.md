@@ -1,2 +1,2 @@
-# professional-publishing
-A book about the professional publishing process.
+# accelerated-publishing
+A book about accelerating the publishing process.
