@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pub:document xmlns:container="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:pub="http://publishingxml.org/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/1999/xhtml">
+	<body>
+<section>
+<p class="Figure-Title">Choosing a Version-Control System</p>
+<p class="Normal"><table>
+	<tr>
+		<td>
+</td><td>
+<p class="Chart-Head">Subversion</p>
+</td><td>
+<p class="Chart-Head">git</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">paradigm</span></p>
+</td><td>
+<p class="Chart-Text">centralized</p>
+</td><td>
+<p class="Chart-Text">distributed</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">implied </span><span class="italic">workflow</span></p>
+</td><td>
+<p class="Chart-Text">centralized</p>
+</td><td>
+<p class="Chart-Text">non-linear, non-centralized</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">commit</span></p>
+</td><td>
+<p class="Chart-Text">one-step, remote</p>
+</td><td>
+<p class="Chart-Text">two-step: local commit, remote “push”</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">working copy</span></p>
+</td><td>
+<p class="Chart-Text">any path within repository</p>
+</td><td>
+<p class="Chart-Text">whole repository</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">implied repository organization</span></p>
+</td><td>
+<p class="Chart-Text">monolithic: one repository</p>
+</td><td>
+<p class="Chart-Text">atomistic: many repositories per server</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">client cmd</span></p>
+</td><td>
+<p class="Chart-Text">svn</p>
+</td><td>
+<p class="Chart-Text">git</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">programmable hooks</span></p>
+</td><td>
+<p class="Chart-Text">yes</p>
+</td><td>
+<p class="Chart-Text">possible, with difficulty</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">extension</span><span class="italic"> languages</span></p>
+</td><td>
+<p class="Chart-Text">several bindings</p>
+</td><td>
+<p class="Chart-Text">several bindings</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text"><span class="italic">WebDAV</span></p>
+</td><td>
+<p class="Chart-Text">yes</p>
+</td><td>
+<p class="Chart-Text">possible, with difficulty</p>
+</td></tr>
+	</table>
+</p>
+</section>
+</body>
+</pub:document>

@@ -1,0 +1,89 @@
+a.Hyperlink {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+a.No-character-style {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+div.Normal {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+p.Body-After-Head {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	text-align: justify;
+	text-indent: 0.0em;
+}
+p.Body-Text {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	text-align: justify;
+	text-indent: 1.5em;
+}
+p.Chart-Head {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-weight: bold;
+	hyphens: none;
+	margin-top: 0.5em;
+	page-break-after: avoid;
+}
+p.Chart-Text {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 0.3em;
+}
+p.Figure-Title {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-weight: bold;
+	hyphens: none;
+	margin-top: 0.7em;
+	page-break-after: avoid;
+}
+p.Heading-3 {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.1em;
+	font-style: italic;
+	hyphens: none;
+	margin-bottom: 0.3em;
+	margin-top: 1.0em;
+	page-break-after: avoid;
+}
+p.No-paragraph-style {
+	font-family: "Minion Pro";
+	font-size: 1.0em;
+	margin-bottom: 0.0em;
+	margin-left: 0.0em;
+	margin-right: 0.0em;
+	margin-top: 0.0em;
+	page-break-after: avoid;
+	text-align: left;
+	text-indent: 0.0em;
+	vertical-align: middle;
+}
+p.Normal {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+p.Normal-Paragraph-Style {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+span.Hyperlink {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+span.No-character-style {
+	-webkit-hyphens: none;
+	hyphens: none;
+}

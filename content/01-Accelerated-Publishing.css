@@ -1,0 +1,490 @@
+a.Annotation-reference {
+	-webkit-hyphens: none;
+	font-size: 0.8em;
+	hyphens: none;
+}
+a.Endnote-reference {
+	-webkit-hyphens: none;
+	font-size: 70%;
+	hyphens: none;
+	vertical-align: top;
+}
+a.Footnote-reference {
+	-webkit-hyphens: none;
+	font-size: 70%;
+	hyphens: none;
+	vertical-align: top;
+}
+a.Hyperlink {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+a.No-character-style {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+a.bold {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 0.9em;
+	font-weight: bold;
+	hyphens: none;
+}
+a.bold-note {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 0.8em;
+	font-weight: bold;
+	hyphens: none;
+}
+a.code {
+	-webkit-hyphens: none;
+	font-family: "Source Code Pro";
+	font-size: 0.8em;
+	hyphens: none;
+}
+a.code-note {
+	-webkit-hyphens: none;
+	font-family: "Source Code Pro";
+	font-size: 0.8em;
+	hyphens: none;
+}
+a.italic {
+	-webkit-hyphens: none;
+	font-style: italic;
+	hyphens: none;
+}
+div.Heading-2 {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.2em;
+	hyphens: none;
+	margin-bottom: 0.3em;
+	margin-top: 1.0em;
+	page-break-after: avoid;
+}
+p.Author {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 2.7em;
+	hyphens: none;
+	margin-bottom: 4.0em;
+	margin-top: 2.0em;
+	text-align: center;
+}
+p.Body-After-Head {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	text-align: justify;
+	text-indent: 0.0em;
+}
+p.Body-Continue {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 0.7em;
+	text-align: justify;
+}
+p.Body-First {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 2.7em;
+}
+p.Body-Section {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 2.7em;
+	text-align: justify;
+	text-indent: 1.5em;
+}
+p.Body-Text {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	text-align: justify;
+	text-indent: 1.5em;
+}
+p.Chapter-Number {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 2.0em;
+	hyphens: none;
+	margin-bottom: 0.0em;
+	margin-top: 1.8em;
+	page-break-after: avoid;
+	page-break-before: right;
+	text-align: center;
+}
+p.Chapter-Title {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 2.5em;
+	hyphens: none;
+	margin-bottom: 5.3em;
+	margin-top: 2.7em;
+	page-break-after: avoid;
+	text-align: center;
+}
+p.Chart-Text {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 0.3em;
+}
+p.Copyright {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-bottom: 0.7em;
+}
+p.Copyright-First {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-bottom: 0.7em;
+	margin-top: 0.0em;
+	page-break-before: left;
+}
+p.Endnote-Body {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 0.8em;
+	hyphens: none;
+	margin-left: 1.0em;
+	text-indent: 1.0em;
+}
+p.Endnote-List {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 0.8em;
+	hyphens: none;
+	margin-left: 2.0em;
+	text-indent: -1.0em;
+}
+p.Endnote-Title {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.7em;
+	hyphens: none;
+	margin-bottom: 2.7em;
+	margin-top: 2.7em;
+	page-break-after: avoid;
+	page-break-before: right;
+	text-align: center;
+}
+p.Endnote-text {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 0.8em;
+	hyphens: none;
+	margin-left: 2.0em;
+	text-indent: -1.0em;
+}
+p.Endnote-text-First {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 0.8em;
+	hyphens: none;
+	margin-left: 2.0em;
+	text-indent: -1.0em;
+}
+p.Figure-Title {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-weight: bold;
+	hyphens: none;
+	margin-top: 0.7em;
+	page-break-after: avoid;
+}
+p.Footnote-text {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 0.8em;
+	hyphens: none;
+	margin-left: 2.0em;
+	text-indent: -1.0em;
+}
+p.Front-Back-Number {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 2.0em;
+	hyphens: none;
+	margin-bottom: 0.0em;
+	margin-top: 0.0em;
+	page-break-after: avoid;
+	page-break-before: right;
+	text-align: center;
+}
+p.Front-Back-Title {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 2.0em;
+	hyphens: none;
+	margin-bottom: 2.7em;
+	margin-top: 0.0em;
+	page-break-after: avoid;
+	text-align: center;
+}
+p.Heading-1 {
+	-webkit-hyphens: none;
+	font-family: "Calibri";
+	font-size: 1.7em;
+	hyphens: none;
+	margin-bottom: 0.8em;
+	margin-top: 1.8em;
+	page-break-after: avoid;
+	text-align: center;
+}
+p.Heading-2 {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.2em;
+	hyphens: none;
+	margin-bottom: 0.3em;
+	margin-top: 1.0em;
+	page-break-after: avoid;
+}
+p.Heading-3 {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.1em;
+	font-style: italic;
+	hyphens: none;
+	margin-bottom: 0.3em;
+	margin-top: 1.0em;
+	page-break-after: avoid;
+}
+p.Heading-3-Numbered {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.1em;
+	font-style: italic;
+	hyphens: none;
+	margin-bottom: 0.3em;
+	margin-left: 3.0em;
+	margin-top: 1.0em;
+	page-break-after: avoid;
+	text-indent: -1.5em;
+}
+p.Heading-3-Numbered-First {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.1em;
+	font-style: italic;
+	hyphens: none;
+	margin-bottom: 0.3em;
+	margin-left: 3.0em;
+	margin-top: 1.0em;
+	page-break-after: avoid;
+	text-indent: -1.5em;
+}
+p.List {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	text-indent: -1.5em;
+}
+p.List-1 {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	text-indent: -1.5em;
+}
+p.List-2 {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 6.0em;
+	text-indent: -1.5em;
+}
+p.List-3 {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 7.5em;
+	text-indent: -1.5em;
+}
+p.List-Body {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 1.5em;
+	text-indent: 1.5em;
+}
+p.List-Bulleted {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	text-indent: -1.5em;
+}
+p.List-Bulleted-Space {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	margin-top: 0.7em;
+	text-indent: -1.5em;
+}
+p.List-Numbered {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	text-indent: -1.5em;
+}
+p.List-Numbered-First {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	text-indent: -1.5em;
+}
+p.List-Numbered-First-Space {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	margin-top: 0.7em;
+	text-indent: -1.5em;
+}
+p.List-Space {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-left: 3.0em;
+	margin-top: 0.7em;
+	text-indent: -1.5em;
+}
+p.No-paragraph-style {
+	font-family: "Minion Pro";
+	font-size: 1.0em;
+	margin-bottom: 0.0em;
+	margin-left: 0.0em;
+	margin-right: 0.0em;
+	margin-top: 0.0em;
+	page-break-after: avoid;
+	text-align: left;
+	text-indent: 0.0em;
+	vertical-align: middle;
+}
+p.Normal {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+p.Normal-Paragraph-Style {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+p.Publisher {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-bottom: 0.7em;
+	margin-top: 6.0em;
+	text-align: center;
+	text-transform: uppercase;
+}
+p.Subtitle {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 1.8em;
+	font-style: italic;
+	hyphens: none;
+	margin-bottom: 2.7em;
+	text-align: center;
+}
+p.TOC-Title {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 1.7em;
+	hyphens: none;
+	margin-bottom: 7.5em;
+	margin-top: 2.7em;
+	page-break-after: avoid;
+	page-break-before: always;
+	text-align: center;
+}
+p.Title {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-size: 4.2em;
+	hyphens: none;
+	margin-bottom: 2.7em;
+	text-align: center;
+}
+p.Toc-1 {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 0.2em;
+}
+p.Toc-1-Space {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 1.3em;
+}
+span.Annotation-reference {
+	-webkit-hyphens: none;
+	font-size: 0.8em;
+	hyphens: none;
+}
+span.Endnote-reference {
+	-webkit-hyphens: none;
+	font-size: 70%;
+	hyphens: none;
+	vertical-align: top;
+}
+span.Footnote-reference {
+	-webkit-hyphens: none;
+	font-size: 70%;
+	hyphens: none;
+	vertical-align: top;
+}
+span.Hyperlink {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+span.No-character-style {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+span.bold {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 0.9em;
+	font-weight: bold;
+	hyphens: none;
+}
+span.bold-note {
+	-webkit-hyphens: none;
+	font-family: "Source Sans Pro";
+	font-size: 0.8em;
+	font-weight: bold;
+	hyphens: none;
+}
+span.code {
+	-webkit-hyphens: none;
+	font-family: "Source Code Pro";
+	font-size: 0.8em;
+	hyphens: none;
+}
+span.code-note {
+	-webkit-hyphens: none;
+	font-family: "Source Code Pro";
+	font-size: 0.8em;
+	hyphens: none;
+}
+span.italic {
+	-webkit-hyphens: none;
+	font-style: italic;
+	hyphens: none;
+}

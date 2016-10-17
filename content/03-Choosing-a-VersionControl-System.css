@@ -1,0 +1,77 @@
+a.Annotation-reference {
+	-webkit-hyphens: none;
+	font-size: 0.8em;
+	hyphens: none;
+}
+a.No-character-style {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+a.italic {
+	-webkit-hyphens: none;
+	font-style: italic;
+	hyphens: none;
+}
+div.Normal {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+p.Chart-Head {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-weight: bold;
+	hyphens: none;
+	margin-top: 0.5em;
+	page-break-after: avoid;
+}
+p.Chart-Text {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+	margin-top: 0.3em;
+}
+p.Figure-Title {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	font-weight: bold;
+	hyphens: none;
+	margin-top: 0.7em;
+	page-break-after: avoid;
+}
+p.No-paragraph-style {
+	font-family: "Minion Pro";
+	font-size: 1.0em;
+	margin-bottom: 0.0em;
+	margin-left: 0.0em;
+	margin-right: 0.0em;
+	margin-top: 0.0em;
+	page-break-after: avoid;
+	text-align: left;
+	text-indent: 0.0em;
+	vertical-align: middle;
+}
+p.Normal {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+p.Normal-Paragraph-Style {
+	-webkit-hyphens: none;
+	font-family: "Crimson";
+	hyphens: none;
+}
+span.Annotation-reference {
+	-webkit-hyphens: none;
+	font-size: 0.8em;
+	hyphens: none;
+}
+span.No-character-style {
+	-webkit-hyphens: none;
+	hyphens: none;
+}
+span.italic {
+	-webkit-hyphens: none;
+	font-style: italic;
+	hyphens: none;
+}

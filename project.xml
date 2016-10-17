@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<project xmlns="http://publishingxml.org/ns" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Accelerated-Publishing">
+
+  <!-- metadata: for project publication -->
+  <opf:metadata>
+    <dc:title id="title1">Accelerated-Publishing</dc:title>
+  </opf:metadata>
+
+  <!-- sources: imported content, without any conversion done -->
+  <sources>
+	<source href="interior/Export/01-Accelerated-Publishing.icml" imported="2016-10-17T14:40:27"/>
+	<source href="interior/Export/02-Recommended-PlainText-Editors.icml" imported="2016-10-17T14:40:29"/>
+	<source href="interior/Export/03-Choosing-a-VersionControl-System.icml" imported="2016-10-17T14:40:29"/>
+	</sources>
+
+  <!-- documents: normalized XML  -->
+  <documents>
+	<document href="content/01-Accelerated-Publishing.xml" source="interior/Export/01-Accelerated-Publishing.icml"/>
+	<document href="content/02-Recommended-PlainText-Editors.xml" source="interior/Export/02-Recommended-PlainText-Editors.icml"/>
+	<document href="content/03-Choosing-a-VersionControl-System.xml" source="interior/Export/03-Choosing-a-VersionControl-System.icml"/>
+	</documents>
+
+  <!-- resources: cover, stylesheets, images, media -->
+  <resources>
+	<resource class="image" href="content/Links/Screenshot-2016-10-10-15.30.20.jpg"/>
+	<resource class="image" href="content/Links/Screenshot-2016-10-12-14.39.12.jpg"/>
+	<resource class="image" href="content/Links/TitlePage.jpg"/>
+	<resource class="image" href="content/Links/bookgenesis-logo.jpg"/>
+	<resource class="image" href="content/Links/bookgenesis-logo.pdf.jpg"/>
+	</resources>
+
+  <!-- spine: the ordered content in the project -->
+  <spine>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Bookmark_3" title="Title Page"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Contents" title="Contents"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Anchor_1" title="1 Writing Tools"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Anchor_2" title="2 Writing and Editing in Word"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Anchor_3" title="3 Typesetting with InDesign"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Anchor_4" title="4 Digital Pre-Production with InDesign"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Anchor_5" title="5 Archiving Content and Projects"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Anchor_6" title="About Publishing XML"/>
+	<spineitem href="content/01-Accelerated-Publishing.xml#section_Anchor_7" title="About the Author"/>
+	</spine>
+
+</project>

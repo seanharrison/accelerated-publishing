@@ -1,0 +1,62 @@
+
+*************************************************************
+ Amazon kindlegen(MAC OSX) V2.9 build 1028-0897292 
+ A command line e-book compiler 
+ Copyright Amazon.com and its Affiliates 2014 
+*************************************************************
+
+Info(prcgen):I1047: Added metadata dc:Title        "Accelerated-Publishing"
+Info(prcgen):I1047: Added metadata dc:Rights       "All rights reserved."
+Info(prcgen):I1002: Parsing files  0000010
+Warning(inputpreprocessor):W29007: Rejected unknown tag: <modified idformat="MMMM d, yyyy h:mm aa"/>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Bookmark_3.html     line: 0000015
+Warning(inputpreprocessor):W29007: Rejected unknown tag: <footnote id="1">
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000109
+Warning(inputpreprocessor):W29004: Forcefully closed opened Tag: <span class="Footnote-reference">
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000109
+Warning(inputpreprocessor):W29004: Forcefully closed opened Tag: <p class="Body-After-Head">
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000109
+Warning(inputpreprocessor):W29007: Rejected unknown tag: <footnote_ref/>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000110
+Warning(inputpreprocessor):W29004: Forcefully closed opened Tag: <td>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000318
+Warning(inputpreprocessor):W29004: Forcefully closed opened Tag: <tr>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000318
+Warning(inputpreprocessor):W29004: Forcefully closed opened Tag: <table>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000318
+Warning(inputpreprocessor):W29004: Forcefully closed opened Tag: <p class="Heading-2">
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000318
+Warning(inputpreprocessor):W29010: Tag rejected due to being used in unauthorized scope: <td>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000320
+Warning(inputpreprocessor):W29010: Tag rejected due to being used in unauthorized scope: <tr>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000324
+Warning(inputpreprocessor):W29010: Tag rejected due to being used in unauthorized scope: <td>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000324
+Warning(inputpreprocessor):W29010: Tag rejected due to being used in unauthorized scope: <td>
+      in file: /Users/sah/Dropbox (Black Earth Group)/BookGenesisPress/books/Accelerated-Publishing/ebooks/Accelerated-Publishing_MOBI/content/01-Accelerated-Publishing_section_Contents.html     line: 0000326
+Info(prcgen):I1016: Building enhanced PRC file
+Info(prcgen):I1015: Building PRC file
+Info(prcgen):I1006: Resolving hyperlinks
+Info(prcgen):I1008: Resolving start reading location
+Warning(prcgen):W14016: Cover not specified
+Info(pagemap):I8000: No Page map found in the book
+Info(prcgen):I1045: Computing UNICODE ranges used in the book
+Info(prcgen):I1046: Found UNICODE range: Basic Latin [20..7E]
+Info(prcgen):I1046: Found UNICODE range: Latin-1 Supplement [A0..FF]
+Info(prcgen):I1046: Found UNICODE range: General Punctuation - Windows 1252 [2018..201A]
+Info(prcgen):I1017: Building PRC file, record count:   0000025
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  46.93%
+Info(prcgen):I1040: The document identifier is: "Accelerated-Publishing"
+Info(prcgen):I1041: The file format version is V6
+Info(prcgen):I1031: Saving PRC file
+Info(prcgen):I1033: PRC built with WARNINGS!
+Info(prcgen):I1007: Resolving mediaidlinks
+Info(prcgen):I1011: Writing mediaidlinks
+Info(prcgen):I1009: Resolving guide items
+Info(prcgen):I1017: Building PRC file, record count:   0000028
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  46.68%
+Info(prcgen):I1041: The file format version is V8
+Info(prcgen):I1032: PRC built successfully
+Info(prcgen):I15000:  Approximate Standard Mobi Deliverable file size :   0000211KB
+Info(prcgen):I15001:  Approximate KF8 Deliverable file size :   0000218KB
+Info(prcgen):I1037: Mobi file built with WARNINGS!

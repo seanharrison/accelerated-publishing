@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pub:document xmlns:container="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:pub="http://publishingxml.org/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/1999/xhtml">
+	<body>
+<section>
+<p class="Figure-Title">Recommended Plain-Text Editors</p>
+<p class="Normal"><table>
+	<tr>
+		<td>
+<p class="Chart-Head">Name</p>
+</td><td>
+<p class="Chart-Head">Platforms</p>
+</td><td>
+<p class="Chart-Head">Description</p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text">Sublime Text<br/>(<span class="Hyperlink">www.sublimetext.com/</span>)</p>
+</td><td>
+<p class="Chart-Text">Windows, macOS,  Linux</p>
+</td><td>
+<p class="Chart-Text">One of the most capable and high-performing text editors, easy to use and configure, and available on all major desktop platforms. </p>
+</td></tr>
+	<tr>
+		<td>
+<p class="Chart-Text">iA Writer (<span class="Hyperlink">ia.net/writer</span>)</p>
+</td><td>
+<p class="Chart-Text">iOS (iPhone, iPad), Android, macOS</p>
+</td><td>
+<p class="Chart-Text">Provides a clean and simple writing environment, with Markdown preview, and syncing via iCloud and Dropbox.</p>
+</td></tr>
+	</table>
+</p>
+</section>
+</body>
+</pub:document>
